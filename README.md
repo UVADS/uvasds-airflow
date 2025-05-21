@@ -1,2 +1,5 @@
-# uvasds-dags
-Apache Airflow DAG management repository.
+# uvasds-airflow
+Apache Airflow management repository. Includes:
+
+- DAGs
+- Plugins
